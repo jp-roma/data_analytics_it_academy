@@ -1,2 +1,2 @@
 # Data_Analytics_It_Academy
-Stage de pruebas de los diferetens sprints.
+Stage de pruebas de los diferentes sprints.
