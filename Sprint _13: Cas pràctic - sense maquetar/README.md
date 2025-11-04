@@ -120,12 +120,12 @@ La contribución de este estudio al campo educativo radica en la validación de 
 
 ### 📑 Presentación del proyecto
 
-En la carpeta `docs/overview` se encuentra la presentación del proyecto, mas un informa resumido y la documentación completa del análisis diagnóstico y predictivo realizado para el dataset (OULAD).
+En la carpeta `docs/overview` se encuentra la presentación del proyecto, mas un informe resumido y la documentación completa del análisis diagnóstico y predictivo realizado para el dataset (OULAD).
 
 
 ## 🧑‍💻 Autoria
 
-| Nom           | GitHub |
+| Nombre         | GitHub |
 |----------------|--------|
 | Juan Pablo Romagnoli | [@jp-roma](https://github.com/jp-roma)
 
