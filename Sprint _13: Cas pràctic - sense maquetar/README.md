@@ -2,10 +2,10 @@
 
 
 # <span style="color: rgba(0, 203, 230, 1);"> Analítica del aprendizaje: un enfoque para optimizar el proceso de aprendizaje. 
-## Análisis diagnóstico y predictivo de los factores de riesgo del comportamiento y el rendimiento de los estudiantes en entornos virtuales.
+## Análisis diagnóstico y predictivo de los factores de riesgo del comportamiento y el rendimiento de los estudiantes en entornos virtuales. 📊💻
  </span> 
 
-### Fundamentación 📊💻
+### Fundamentación 
 
 Actualmente, las universidades cuentan con una mayor variedad de modelos educativos, como el aprendizaje semipresencial y el aprendizaje electrónico. A pesar de las crecientes oportunidades para estudiantes y docentes, el aprendizaje en línea también plantea desafíos debido a la ausencia de contacto humano directo. 
 
