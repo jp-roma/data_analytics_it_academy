@@ -75,7 +75,7 @@ En la carpeta `data/processed` del repositorio se alojan los master_data_sets ut
 
 Para reproducir completamente el análisis, se deben seguir estos pasos:
 
-### Paso 1: Ejecutar el notebook del EDA
+#### Paso 1: Ejecutar el notebook del EDA
 
     ```
     notebooks/EDA_Project_IT_Academy.ipynb
@@ -93,7 +93,7 @@ Este notebook:
 
 El conjunto de datos limpios y fusionados, con los dataset finales, tanto del EDA como del agrupamiento por clusters, se alojan en la carpeta: `data/processed`.
 
-### Paso 2: Ejecutar el notebook de ML no supervisado (k-means)
+#### Paso 2: Ejecutar el notebook de ML no supervisado (k-means)
 
     ```
     notebooks/K_Means_Project_IT_Academy.ipynb
