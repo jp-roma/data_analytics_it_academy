@@ -22,7 +22,7 @@ Diagnóstico: ¿Qué factores (demográficos, conductuales) se correlacionan con
 Objetivo: Responder: ¿Quiénes están fracasando o abandonando los estudios y qué comportamientos iniciales los diferencian de quienes tienen éxito?
 
 ### Introducción
-<img src = https://www.open.ac.uk/ouheaders/gui/Open_University_OG_Image.png alt= 'Open University' width= "300">
+<img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg5ecJUTBB0B1fHWxHHjhmbCYlt6lh7LCyJA&s" alt= 'Open University' width= "300">
 
 #### Contexto
 
