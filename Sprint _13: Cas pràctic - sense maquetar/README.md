@@ -62,7 +62,7 @@ También se incluyen las calificaciones de las evaluaciones de los estudiantes y
     ```
 ### 💾 Recolección de datos:
 
-El conjunto de datos corresponde al dataset: Open University Learning Analytics Dataset (OULAD) (https://www.kaggle.com/datasets/anlgrbz/student-demographics-online-education-dataoulad/data). Pertenciente a la plataforma de aprendizaje en línea de la universidad pública británica Open University, con información demográfica de los estudiantes
+El conjunto de datos corresponde al dataset: Open University Learning Analytics Dataset [OULAD](https://www.kaggle.com/datasets/anlgrbz/student-demographics-online-education-dataoulad/data). Pertenciente a la plataforma de aprendizaje en línea de la universidad pública británica Open University, con información demográfica de los estudiantes
 
 Licencia
 Attribution 4.0 International (CC BY 4.0)
