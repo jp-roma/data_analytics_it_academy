@@ -64,8 +64,7 @@ También se incluyen las calificaciones de las evaluaciones de los estudiantes y
 
 El conjunto de datos corresponde al dataset: Open University Learning Analytics Dataset [OULAD](https://www.kaggle.com/datasets/anlgrbz/student-demographics-online-education-dataoulad/data). Pertenciente a la plataforma de aprendizaje en línea de la universidad pública británica Open University, con información demográfica de los estudiantes
 
-Licencia
-Attribution 4.0 International (CC BY 4.0)
+###Licencia Attribution 4.0 International (CC BY 4.0)
 ---
 
 En la carpeta `data/processed` del repositorio se alojan los master_data_sets utilizados para las visualizaciones y el agrupamiento por clusters, ejecutado mediante el algoritmo K-means de ML no supervisado.
@@ -76,9 +75,8 @@ En la carpeta `data/processed` del repositorio se alojan los master_data_sets ut
 
 Para reproducir completamente el análisis, se deben seguir estos pasos:
 
-### Paso 1: Executar el notebook del EDA
+### Paso 1: Ejecutar el notebook del EDA
 
-Paso 1: Ejecutar el notebook:
     ```
     notebooks/EDA_Project_IT_Academy.ipynb
     ```
@@ -91,9 +89,9 @@ Este notebook:
 - Realiza agregaciones y métricas para las visualizaciones posteriores.
 - Fusiona los datos de las evaluaciones de los estudiantes, con sus acciones en el EVA, y los registros realizados.
 - Crea conjuntos de datos agregados, listos para la visualización de los datos.
-- Genera las visualizaciones del análisis diagnóstico de la base de datos master (df_base)
+- Genera las visualizaciones del análisis diagnóstico del dataframe master (df_base)
 
-El conjunto de datos limpios y fusionados se alojan en la carpeta: `data/processed`.
+El conjunto de datos limpios y fusionados, con los dataset finales, tanto del EDA como del agrupamiento por clusters, se alojan en la carpeta: `data/processed`.
 
 ### Paso 2: Ejecutar el notebook de ML no supervisado (k-means)
 
