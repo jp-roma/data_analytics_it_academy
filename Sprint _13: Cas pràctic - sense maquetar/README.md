@@ -1,9 +1,9 @@
-<img src="https://www.barcelonactiva.cat/documents/20124/1625465/it_academy_logo.png/859268c9-6aba-5a5c-2dea-980fb2098e5d?version=1.0&t=1662625857883&download=true" alt="logo_IT_Academy" width="300"> 📊💻
+<img src="https://www.barcelonactiva.cat/documents/20124/1625465/it_academy_logo.png/859268c9-6aba-5a5c-2dea-980fb2098e5d?version=1.0&t=1662625857883&download=true" alt="logo_IT_Academy" width="300"> 
 
 
 # <span style="color: rgba(0, 203, 230, 1);"> Analítica del aprendizaje: un enfoque para optimizar el proceso de aprendizaje. 
-Análisis diagnóstico y predictivo de los factores de riesgo del comportamiento y el rendimiento de los estudiantes en entornos virtuales.
- </span>
+## Análisis diagnóstico y predictivo de los factores de riesgo del comportamiento y el rendimiento de los estudiantes en entornos virtuales.
+ </span> 📊💻
 
 ### Fundamentación
 
