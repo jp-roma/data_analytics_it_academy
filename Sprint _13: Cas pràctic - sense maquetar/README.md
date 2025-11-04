@@ -71,7 +71,7 @@ En la carpeta `data/processed` del repositorio se alojan los master_data_sets ut
 
 
 
-###· ⚡ Como ejecutar el proyecto
+### ⚡ Como ejecutar el proyecto
 
 Para reproducir completamente el análisis, se deben seguir estos pasos:
 
@@ -100,11 +100,11 @@ El conjunto de datos limpios y fusionados, con los dataset finales, tanto del ED
     ```
 Este notebook genera la agrupación de los datos en clusters, mediante el algoritmo K-means, para segmentar a la población en cuatro grupos homogéneos (Cluster 0, 1, 2, y 3) según la combinación de sus niveles de actividad, persistencia y score inicial.
 
-Tambien genera los gráficos de los perfiles generados para cada cluster, y su posterior análisis. 
+Tambien genera los gráficos de los perfiles agrupados para cada cluster, y su posterior análisis. 
 
 ---
 
-Todas las imagenes finales se dejan en la carpeta:
+#### Todas las imagenes finales se alojan en la carpeta:
 
 ```
 visuals/images
